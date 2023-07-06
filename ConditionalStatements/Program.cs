@@ -46,7 +46,7 @@ namespace ConditionalStatements
             Console.WriteLine("");
             Console.WriteLine("----find the biggest of three numbers using nested if statement-------------------------------");
 
-            //This example that finds the biggest of three integers, using nested if statements
+            //This example  finds the biggest of three integers, using nested if statements
             Console.WriteLine("Enter num1");
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter num2");
@@ -77,6 +77,79 @@ namespace ConditionalStatements
                 }
             }
             Console.WriteLine("The largest number is: " + bigNumber);
+
+            Console.WriteLine("");
+            Console.WriteLine("----Sort 3 real numbers in descending order. Use nested if statements.\r\n");
+
+            Console.WriteLine("Enter the first number:");
+            int number1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the second number:");
+            int number2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the third number:");
+            double number3 = Convert.ToInt32(Console.ReadLine());
+
+                double largestNumber, middleNumber, smallestNumber;
+
+                if (number1 >= number2)
+                {
+                    if (number1 >= number3)
+                    {
+                        largestNumber = number1;
+                        if (number2 >= number3)
+                        {
+                            middleNumber = number2;
+                            smallestNumber = number3;
+                        }
+                        else
+                        {
+                            middleNumber = number3;
+                            smallestNumber = number2;
+                        }
+                    }
+                    else
+                    {
+                        largestNumber = number3;
+                        middleNumber = number1;
+                        smallestNumber = number2;
+                    }
+                }
+                else
+                {
+                    if (number2 >= number3)
+                    {
+                        largestNumber = number2;
+                        if (number1 >= number3)
+                        {
+                            middleNumber = number1;
+                            smallestNumber = number3;
+                        }
+                        else
+                        {
+                            middleNumber = number3;
+                            smallestNumber = number1;
+                        }
+                    }
+                    else
+                    {
+                        largestNumber = number3;
+                        middleNumber = number2;
+                        smallestNumber = number1;
+                    }
+                }
+
+                Console.WriteLine("Sorted numbers in descending order:");
+                Console.WriteLine(largestNumber);
+                Console.WriteLine(middleNumber);
+                Console.WriteLine(smallestNumber);
+
+                Console.ReadLine();
+            
+        
+
+
+
         }
 
     }
