@@ -1,0 +1,15 @@
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.exe
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.deps.json
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.runtimeconfig.json
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\bin\Debug\net6.0\ConditionalStatements.pdb
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.AssemblyInfo.cs
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\refint\ConditionalStatements.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.pdb
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ConditionalStatements.genruntimeconfig.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\ConditionalStatements\obj\Debug\net6.0\ref\ConditionalStatements.dll
