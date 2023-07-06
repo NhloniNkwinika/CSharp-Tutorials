@@ -79,7 +79,7 @@ namespace ConditionalStatements
             Console.WriteLine("The largest number is: " + bigNumber);
 
             Console.WriteLine("");
-            Console.WriteLine("----Sort 3 real numbers in descending order. Use nested if statements.\r\n");
+            Console.WriteLine("----Sort 3 integers in descending order. Use nested if statements.\r\n");
 
             Console.WriteLine("Enter the first number:");
             int number1 = Convert.ToInt32(Console.ReadLine());
@@ -88,7 +88,7 @@ namespace ConditionalStatements
             int number2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Enter the third number:");
-            double number3 = Convert.ToInt32(Console.ReadLine());
+            int number3 = Convert.ToInt32(Console.ReadLine());
 
                 double largestNumber, middleNumber, smallestNumber;
 
@@ -144,12 +144,29 @@ namespace ConditionalStatements
                 Console.WriteLine(middleNumber);
                 Console.WriteLine(smallestNumber);
 
-                Console.ReadLine();
+            Console.WriteLine("");
+            Console.WriteLine("---- Enter a number from 0-9 and it will be displayed as a word *Switch statement");
+            /*a program that asks for a digit (0-9), and depending on the input it display the digit as a word. Using a switch statement.*/
             
-        
+            Console.WriteLine("Enter a number you want displayed as a word:");
+            int switchNum = Convert.ToInt32(Console.ReadLine());
 
+            switch(switchNum)
+            {
+                case 0:
+                    Console.WriteLine("Zero"); break;
+                case 1:
+                    Console.WriteLine("One"); break;
+                case 2:
+                    Console.WriteLine("Two");break; 
+                case 3:
+                    Console.WriteLine("Three"); break;
+                case 4:
+                    Console.WriteLine("Four"); break;
+                case 5:
+                    Console.WriteLine("Five"); break;
 
-
+            }
         }
 
     }
