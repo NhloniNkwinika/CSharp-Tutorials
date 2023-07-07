@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
+using System.Numerics;
 
 namespace Loops
 {
@@ -8,7 +9,7 @@ namespace Loops
         static void Main(string[] args)
         {
             /*This program prompt the user to enter a number and determine
-            if it's a prime number. all prime numbers will be counted and displayed at the end */
+            if it's a prime number. all even numbers will be counted and displayed at the end using a for loop */
             Console.WriteLine("");
             Console.WriteLine("----check whether a given number is prime");
 
@@ -20,16 +21,18 @@ namespace Loops
                 if (num % 2 == 0)
                 {
                     count++;
-                    Console.WriteLine(num + " is a prime");
+                    Console.WriteLine(num + " is an even number");
                 }
                 else
                 {
-                    Console.WriteLine(num + " Not a prime number");
+                    Console.WriteLine(num + " Not an even number");
                 }
 
 
             }
-            Console.WriteLine("The total of all the counted prime numbers is " + count);
+            Console.WriteLine("The total of all the counted even numbers is " + count);
+
+
         }
     }
 }
