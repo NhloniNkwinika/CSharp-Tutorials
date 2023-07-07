@@ -51,6 +51,24 @@ namespace Loops
                     Console.WriteLine(number +" is a prime ", prime);
                 }
             }
+
+
+            Console.WriteLine("");
+            Console.WriteLine("----check whether a given number is divisible by 7 ");
+            /*calculate the sum of all odd integers in the range [1…n], which are not 
+            divisible by 7 by using the for-loop:*/
+
+            int n = int.Parse(Console.ReadLine());
+            int sum = 0;
+            for (int i = 1; i <= n; i += 2)
+            {
+                if (i % 7 == 0)
+                {
+                    continue; //stops the current iteration of the inner loop,without terminating the loop.
+                }
+                sum += i;
+            }
+            Console.WriteLine("sum = " + sum);
         }
     }
 }
