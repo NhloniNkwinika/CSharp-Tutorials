@@ -69,6 +69,21 @@ namespace Loops
                 sum += i;
             }
             Console.WriteLine("sum = " + sum);
+
+            Console.WriteLine("");
+            Console.WriteLine("----Display the elements in an array using a for each loop ");
+
+            int[] numbers = { 2, 3, 5, 7, 11, 13, 17, 19 };
+            foreach (int i in numbers)
+            {
+                Console.Write(" " + i);
+            }
+            Console.WriteLine();
+            string[] towns = { "London", "Paris", "Milan", "New York" };
+            foreach (string town in towns)
+            {
+                Console.Write(" " + town);
+            }
         }
     }
 }
