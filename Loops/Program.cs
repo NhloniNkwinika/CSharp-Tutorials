@@ -11,7 +11,7 @@ namespace Loops
             /*This program prompt the user to enter a number and determine
             if it's a prime number. all even numbers will be counted and displayed at the end using a for loop */
             Console.WriteLine("");
-            Console.WriteLine("----check whether a given number is prime");
+            Console.WriteLine("----check whether a given number is even");
 
             int count = 0;
             for (int i = 0; i < 4; i++)
@@ -32,7 +32,25 @@ namespace Loops
             }
             Console.WriteLine("The total of all the counted even numbers is " + count);
 
+            /*program to check whether a given number is prime or not. using a while loop*/
+            Console.WriteLine("");
+            Console.WriteLine("----check whether a given number is prime");
 
+            Console.Write("Enter a number: ");
+            int number = int.Parse(Console.ReadLine());
+            bool prime = true;
+            while(prime && (number/1 == number))
+            {
+                if(number % 2 == 0) 
+                {
+                    prime = false;
+                    Console.WriteLine(number + " is not a prime ", prime);
+                }
+                else
+                {
+                    Console.WriteLine(number +" is a prime ", prime);
+                }
+            }
         }
     }
 }
