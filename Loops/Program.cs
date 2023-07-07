@@ -11,13 +11,13 @@ namespace Loops
             if it's a prime number. all prime numbers will be counted and displayed at the end */
             Console.WriteLine("");
             Console.WriteLine("----check whether a given number is prime");
-            
+
             int count = 0;
-            for (int i = 0; i < 4; i++) 
+            for (int i = 0; i < 4; i++)
             {
                 Console.Write("Enter a number: ");
                 int num = int.Parse(Console.ReadLine());
-                if (num % 2 == 0) 
+                if (num % 2 == 0)
                 {
                     count++;
                     Console.WriteLine(num + " is a prime");
@@ -29,7 +29,7 @@ namespace Loops
 
 
             }
-            Console.WriteLine("The total of all the counted prime numbers is "+ count);
+            Console.WriteLine("The total of all the counted prime numbers is " + count);
         }
     }
 }
