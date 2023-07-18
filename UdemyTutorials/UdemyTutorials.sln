@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyTutorials", "UdemyTutorials.csproj", "{EB14E665-575B-4A99-BB93-6544257C80F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalc$Switch", "SimpleCalc$Switch.csproj", "{EB14E665-575B-4A99-BB93-6544257C80F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "..\WhileLoop\WhileLoop.csproj", "{745B00B7-5842-4C83-AE69-CE3DF7CC707A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EB14E665-575B-4A99-BB93-6544257C80F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB14E665-575B-4A99-BB93-6544257C80F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB14E665-575B-4A99-BB93-6544257C80F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745B00B7-5842-4C83-AE69-CE3DF7CC707A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745B00B7-5842-4C83-AE69-CE3DF7CC707A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745B00B7-5842-4C83-AE69-CE3DF7CC707A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745B00B7-5842-4C83-AE69-CE3DF7CC707A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

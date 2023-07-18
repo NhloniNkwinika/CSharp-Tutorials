@@ -1,0 +1,5 @@
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\SimpleCalc$Switch.csproj.AssemblyReference.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\SimpleCalc$Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\SimpleCalc$Switch.AssemblyInfoInputs.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\SimpleCalc$Switch.AssemblyInfo.cs
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\SimpleCalc$Switch.csproj.CoreCompileInputs.cache

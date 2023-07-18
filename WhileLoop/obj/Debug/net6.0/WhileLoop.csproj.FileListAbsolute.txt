@@ -1,0 +1,15 @@
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\bin\Debug\net6.0\WhileLoop.exe
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\bin\Debug\net6.0\WhileLoop.deps.json
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\bin\Debug\net6.0\WhileLoop.runtimeconfig.json
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\bin\Debug\net6.0\WhileLoop.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\bin\Debug\net6.0\WhileLoop.pdb
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfo.cs
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\refint\WhileLoop.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.pdb
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\WhileLoop.genruntimeconfig.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\WhileLoop\obj\Debug\net6.0\ref\WhileLoop.dll

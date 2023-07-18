@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nhloniphoN\\Desktop\\CSharp-Tutorials\\UdemyTutorials\\SimpleCalc$Switch.csproj",
-      "projectName": "SimpleCalc$Switch",
-      "projectPath": "C:\\Users\\nhloniphoN\\Desktop\\CSharp-Tutorials\\UdemyTutorials\\SimpleCalc$Switch.csproj",
+      "projectUniqueName": "C:\\Users\\nhloniphoN\\Desktop\\CSharp-Tutorials\\WhileLoop\\WhileLoop.csproj",
+      "projectName": "WhileLoop",
+      "projectPath": "C:\\Users\\nhloniphoN\\Desktop\\CSharp-Tutorials\\WhileLoop\\WhileLoop.csproj",
       "packagesPath": "C:\\Users\\nhloniphoN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nhloniphoN\\Desktop\\CSharp-Tutorials\\UdemyTutorials\\obj\\",
+      "outputPath": "C:\\Users\\nhloniphoN\\Desktop\\CSharp-Tutorials\\WhileLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhloniphoN\\AppData\\Roaming\\NuGet\\NuGet.Config",
