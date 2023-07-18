@@ -1,0 +1,15 @@
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\bin\Debug\net6.0\UdemyTutorials.exe
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\bin\Debug\net6.0\UdemyTutorials.deps.json
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\bin\Debug\net6.0\UdemyTutorials.runtimeconfig.json
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\bin\Debug\net6.0\UdemyTutorials.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\bin\Debug\net6.0\UdemyTutorials.pdb
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.csproj.AssemblyReference.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.AssemblyInfoInputs.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.AssemblyInfo.cs
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.csproj.CoreCompileInputs.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\refint\UdemyTutorials.dll
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.pdb
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\UdemyTutorials.genruntimeconfig.cache
+C:\Users\nhloniphoN\Desktop\CSharp-Tutorials\UdemyTutorials\obj\Debug\net6.0\ref\UdemyTutorials.dll
